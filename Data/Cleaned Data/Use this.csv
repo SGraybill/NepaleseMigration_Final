@@ -1,0 +1,72 @@
+CountryID,CountryID2,Country,Lat,Long,Total
+ALB,AL,Albania,41.15,20.17,9
+AGR,AR,Argentina,38.42,63.62,8
+AUS,AU,Australia,25.27,133.78,4458
+AUT,AT,Austria,47.52,14.55,844
+AZE,AZ,Azerbaijan,40.14,47.58,22
+BEL,BE,Belgium,50.5,4.47,4511
+BIH,BA,Bosnia and Herzegovina,43.92,17.68,18
+BRA,BR,Brazil,14.24,51.93,409
+BGR,BG,Bulgaria,42.73,25.49,29
+KHM,KH,Cambodia,12.57,104.99,5
+CAN,CA,Canada,56.13,106.35,1903
+CHL,CL,Chile,35.68,71.54,6
+CHN,CN,"China, Hong Kong Special Administrative Region",22.32,114.17,1184
+COL,CO,Colombia,4.57,74.3,111
+CRI,CR,Costa Rica,9.75,83.75,220
+HRV,HR,Croatia,45.1,15.2,5
+CYP,CY,Cyprus,35.13,33.43,2061
+CZE,CZ,Czechia,49.82,15.47,5
+COD,CD,Democratic Republic of the Congo,4.04,21.76,5
+DNK,DK,Denmark,56.26,9.5,163
+ECU,EC,Ecuador,1.83,78.18,58
+EST,EE,Estonia,58.6,25.01,5
+FIN,FI,Finland,61.92,25.75,128
+FRA,FR,France,46.23,2.21,1870
+GEO,GE,Georgia,42.32,43.36,19
+DEU,DE,Germany,51.16,10.45,1540
+GRC,GR,Greece,39.07,21.82,534
+GTM,GT,Guatemala,15.78,90.23,98
+HND,HN,Honduras,15.2,86.24,6
+HUN,HU,Hungary,47.16,19.5,148
+IDN,ID,Indonesia,0.79,113.92,53
+IRL,IE,Ireland,53.14,7.69,282
+IDSR,IL,Israel,31.05,34.85,253
+ITA,IT,Italy,41.87,12.57,442
+JPN,JP,Japan,36.2,138.25,17311
+KWT,KW,Kuwait,29.31,47.48,5
+LVA,LV,Latvia,56.88,24.6,10
+LTU,LT,Lithuania,55.17,23.88,5
+LUX,LU,Luxembourg,49.82,6.13,5
+MYS,MY,Malaysia,4.21,101.98,386
+MLT,MT,Malta,35.94,14.38,29
+MEX,MX,Mexico,23.63,102.55,89
+FSM,FM,Micronesia,7.43,150.55,26
+MNE,ME,Montenegro,42.71,19.37,32
+NRU,NR,Nauru,0.52,166.93,15
+NLD,NL,Netherlands,52.13,5.29,1329
+NIC,NI,Nicaragua,12.87,85.21,41
+NOR,NO,Norway,60.47,8.47,1554
+NXL,NZ,New Zealand,40.9,174.89,145
+PAN,PA,Panama,8.54,80.78,18
+PNG,PG,Papua New Guinea,6.32,143.96,17
+PER,PE,Peru,9.19,75.02,15
+POL,PL,Poland,51.92,19.15,149
+PRT,PT,Portugal,39.4,8.22,16
+KOR,KR,Republic of Korea,35.91,127.77,1858
+ROU,RO,Romania,45.94,24.97,25
+RUS,RU,Russia,61.52,105.32,10
+SEN,SN,Senegal,14.5,14.45,5
+SRB,RS,Serbia,44.02,21.01,9
+SVK,SK,Slovakia,48.67,19.7,124
+SVN,SI,Slovenia,46.15,15,37
+ZAF,ZA,South Africa,30.56,22.94,562
+ESP,ES,Spain,40.46,3.75,124
+LKA,LK,Sri Lanka,7.87,80.77,5
+SWE,SE,Sweden,60.13,18.64,709
+CHE,CH,Switzerland,46.82,8.23,530
+THA,TH,Thailand,15.87,100.99,393
+TUR,TR,Turkey,38.96,35.24,28
+UKR,UA,Ukraine,48.38,31.16,59
+GBR,GB,United Kingdom of Great Britain and Northern Ireland,55.38,3.44,2612
+USA,US,United States of America,37.09,95.71,19910

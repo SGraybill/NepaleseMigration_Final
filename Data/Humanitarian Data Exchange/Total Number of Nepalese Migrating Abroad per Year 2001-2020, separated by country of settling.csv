@@ -1,0 +1,646 @@
+Year,Country of Origin Code,Country of Asylum Code,Country of Origin Name,Country of Asylum Name,Refugees,Internally Displaced Persons,Asylum-seekers,Others of Concern to UNHCR,Stateless Persons,Venezuelans Displaced Abroad
+#date+year,#country+code+origin,#country+code+asylum,#country+name+origin,#country+name+asylum,#affected+refugees,#affected+idps,#affected+asylum_seekers,#affected+others,#affected+stateless,#affected+vda
+1994,NPL,CAN,Nepal,Canada,5,0,0,0,0,0
+1995,NPL,CAN,Nepal,Canada,5,0,0,0,0,0
+1995,NPL,FRA,Nepal,France,5,0,0,0,0,0
+1995,NPL,USA,Nepal,United States of America,17,0,0,0,0,0
+1996,NPL,AUS,Nepal,Australia,6,0,0,0,0,0
+1996,NPL,CAN,Nepal,Canada,9,0,0,0,0,0
+1996,NPL,FRA,Nepal,France,5,0,0,0,0,0
+1996,NPL,USA,Nepal,United States of America,24,0,0,0,0,0
+1997,NPL,AUS,Nepal,Australia,9,0,0,0,0,0
+1997,NPL,CAN,Nepal,Canada,16,0,0,0,0,0
+1997,NPL,USA,Nepal,United States of America,24,0,0,0,0,0
+1998,NPL,AUS,Nepal,Australia,21,0,0,0,0,0
+1998,NPL,CAN,Nepal,Canada,19,0,0,0,0,0
+1998,NPL,FRA,Nepal,France,5,0,0,0,0,0
+1998,NPL,USA,Nepal,United States of America,50,0,0,0,0,0
+1999,NPL,AUS,Nepal,Australia,26,0,0,0,0,0
+1999,NPL,CAN,Nepal,Canada,39,0,0,0,0,0
+1999,NPL,USA,Nepal,United States of America,113,0,0,0,0,0
+2000,NPL,AUS,Nepal,Australia,27,0,181,0,0,0
+2000,NPL,CAN,Nepal,Canada,28,0,19,0,0,0
+2000,NPL,DNK,Nepal,Denmark,0,0,5,0,0,0
+2000,NPL,DEU,Nepal,Germany,0,0,64,0,0,0
+2000,NPL,NLD,Nepal,Netherlands,0,0,25,0,0,0
+2000,NPL,SVK,Nepal,Slovakia,0,0,11,0,0,0
+2000,NPL,CHE,Nepal,Switzerland,0,0,16,0,0,0
+2000,NPL,USA,Nepal,United States of America,172,0,123,0,0,0
+2001,NPL,AUS,Nepal,Australia,23,0,203,0,0,0
+2001,NPL,CAN,Nepal,Canada,38,0,49,0,0,0
+2001,NPL,DNK,Nepal,Denmark,0,0,10,0,0,0
+2001,NPL,DEU,Nepal,Germany,0,0,107,0,0,0
+2001,NPL,NLD,Nepal,Netherlands,0,0,20,0,0,0
+2001,NPL,NOR,Nepal,Norway,9,0,0,0,0,0
+2001,NPL,SVK,Nepal,Slovakia,0,0,9,0,0,0
+2001,NPL,CHE,Nepal,Switzerland,0,0,15,0,0,0
+2001,NPL,USA,Nepal,United States of America,230,0,137,0,0,0
+2002,NPL,AUS,Nepal,Australia,34,0,60,0,0,0
+2002,NPL,CAN,Nepal,Canada,52,0,56,0,0,0
+2002,NPL,DNK,Nepal,Denmark,0,0,5,0,0,0
+2002,NPL,GBR,Nepal,United Kingdom of Great Britain and Northern Ireland,65,0,0,0,0,0
+2002,NPL,DEU,Nepal,Germany,390,0,165,0,0,0
+2002,NPL,NLD,Nepal,Netherlands,0,0,30,0,0,0
+2002,NPL,NOR,Nepal,Norway,9,0,0,0,0,0
+2002,NPL,NZL,Nepal,New Zealand,5,0,0,0,0,0
+2002,NPL,SVK,Nepal,Slovakia,0,0,11,0,0,0
+2002,NPL,SWE,Nepal,Sweden,0,0,38,0,0,0
+2002,NPL,CHE,Nepal,Switzerland,0,0,31,0,0,0
+2002,NPL,USA,Nepal,United States of America,344,0,210,0,0,0
+2003,NPL,AUS,Nepal,Australia,31,0,45,0,0,0
+2003,NPL,BEL,Nepal,Belgium,5,0,19,0,0,0
+2003,NPL,CAN,Nepal,Canada,83,0,65,0,0,0
+2003,NPL,DNK,Nepal,Denmark,0,0,5,0,0,0
+2003,NPL,FIN,Nepal,Finland,5,0,0,0,0,0
+2003,NPL,FRA,Nepal,France,8,0,0,0,0,0
+2003,NPL,GBR,Nepal,United Kingdom of Great Britain and Northern Ireland,166,0,0,0,0,0
+2003,NPL,DEU,Nepal,Germany,483,0,81,0,0,0
+2003,NPL,HKG,Nepal,"China, Hong Kong Special Administrative Region",0,0,6,0,0,0
+2003,NPL,MYS,Nepal,Malaysia,0,0,6,0,0,0
+2003,NPL,NLD,Nepal,Netherlands,5,0,41,0,0,0
+2003,NPL,NOR,Nepal,Norway,12,0,0,0,0,0
+2003,NPL,NZL,Nepal,New Zealand,5,0,7,0,0,0
+2003,NPL,SVK,Nepal,Slovakia,0,0,5,0,0,0
+2003,NPL,SWE,Nepal,Sweden,0,0,52,0,0,0
+2003,NPL,CHE,Nepal,Switzerland,0,0,33,0,0,0
+2003,NPL,THA,Nepal,Thailand,0,0,13,0,0,0
+2003,NPL,USA,Nepal,United States of America,429,0,347,0,0,0
+2004,NPL,AUS,Nepal,Australia,29,0,23,0,0,0
+2004,NPL,BEL,Nepal,Belgium,6,0,112,0,0,0
+2004,NPL,CAN,Nepal,Canada,116,0,60,0,0,0
+2004,NPL,CYP,Nepal,Cyprus,0,0,87,0,0,0
+2004,NPL,FIN,Nepal,Finland,6,0,0,0,0,0
+2004,NPL,FRA,Nepal,France,12,0,0,0,0,0
+2004,NPL,GBR,Nepal,United Kingdom of Great Britain and Northern Ireland,147,0,0,0,0,0
+2004,NPL,DEU,Nepal,Germany,483,0,65,0,0,0
+2004,NPL,HKG,Nepal,"China, Hong Kong Special Administrative Region",0,0,216,0,0,0
+2004,NPL,HUN,Nepal,Hungary,5,0,0,0,0,0
+2004,NPL,IRL,Nepal,Ireland,0,0,12,0,0,0
+2004,NPL,KOR,Nepal,Republic of Korea,0,0,5,0,0,0
+2004,NPL,MYS,Nepal,Malaysia,0,0,24,0,0,0
+2004,NPL,NLD,Nepal,Netherlands,7,0,135,0,0,0
+2004,NPL,NOR,Nepal,Norway,15,0,0,0,0,0
+2004,NPL,NZL,Nepal,New Zealand,7,0,10,0,0,0
+2004,NPL,POL,Nepal,Poland,0,0,5,0,0,0
+2004,NPL,SVK,Nepal,Slovakia,0,0,5,0,0,0
+2004,NPL,SWE,Nepal,Sweden,5,0,61,0,0,0
+2004,NPL,CHE,Nepal,Switzerland,0,0,30,0,0,0
+2004,NPL,THA,Nepal,Thailand,5,0,36,0,0,0
+2004,NPL,USA,Nepal,United States of America,571,0,423,0,0,0
+2005,NPL,AUS,Nepal,Australia,47,0,40,0,0,0
+2005,NPL,BEL,Nepal,Belgium,23,0,440,0,0,0
+2005,NPL,BGR,Nepal,Bulgaria,0,0,5,0,0,0
+2005,NPL,CAN,Nepal,Canada,178,0,44,0,0,0
+2005,NPL,CYP,Nepal,Cyprus,0,0,160,0,0,0
+2005,NPL,DNK,Nepal,Denmark,0,0,5,0,0,0
+2005,NPL,FIN,Nepal,Finland,5,0,0,0,0,0
+2005,NPL,FRA,Nepal,France,26,0,0,0,0,0
+2005,NPL,GBR,Nepal,United Kingdom of Great Britain and Northern Ireland,149,0,0,0,0,0
+2005,NPL,DEU,Nepal,Germany,530,0,242,0,0,0
+2005,NPL,HKG,Nepal,"China, Hong Kong Special Administrative Region",9,0,220,0,0,0
+2005,NPL,HUN,Nepal,Hungary,8,0,0,0,0,0
+2005,NPL,IRL,Nepal,Ireland,5,0,0,0,0,0
+2005,NPL,KOR,Nepal,Republic of Korea,0,0,11,0,0,0
+2005,NPL,MEX,Nepal,Mexico,0,0,5,0,0,0
+2005,NPL,MYS,Nepal,Malaysia,10,0,304,0,0,0
+2005,NPL,NLD,Nepal,Netherlands,35,0,197,0,0,0
+2005,NPL,NOR,Nepal,Norway,16,0,0,0,0,0
+2005,NPL,NZL,Nepal,New Zealand,9,0,20,0,0,0
+2005,NPL,SWE,Nepal,Sweden,8,0,59,0,0,0
+2005,NPL,CHE,Nepal,Switzerland,6,0,103,0,0,0
+2005,NPL,THA,Nepal,Thailand,40,0,67,0,0,0
+2005,NPL,USA,Nepal,United States of America,957,0,495,0,0,0
+2006,NPL,AUS,Nepal,Australia,72,0,30,0,0,0
+2006,NPL,AUT,Nepal,Austria,8,0,155,0,0,0
+2006,NPL,BEL,Nepal,Belgium,26,0,250,0,0,0
+2006,NPL,CAN,Nepal,Canada,319,0,114,0,0,0
+2006,NPL,CYP,Nepal,Cyprus,0,0,205,0,0,0
+2006,NPL,DNK,Nepal,Denmark,5,0,0,0,0,0
+2006,NPL,ECU,Nepal,Ecuador,0,0,9,0,0,0
+2006,NPL,FIN,Nepal,Finland,6,0,0,0,0,0
+2006,NPL,FRA,Nepal,France,32,0,0,0,0,0
+2006,NPL,GBR,Nepal,United Kingdom of Great Britain and Northern Ireland,149,0,0,0,0,0
+2006,NPL,DEU,Nepal,Germany,225,0,147,0,0,0
+2006,NPL,HKG,Nepal,"China, Hong Kong Special Administrative Region",11,0,251,0,0,0
+2006,NPL,HUN,Nepal,Hungary,14,0,0,0,0,0
+2006,NPL,IDN,Nepal,Indonesia,0,0,5,0,0,0
+2006,NPL,IRL,Nepal,Ireland,5,0,9,0,0,0
+2006,NPL,ISR,Nepal,Israel,0,0,6,0,0,0
+2006,NPL,JPN,Nepal,Japan,0,0,10,0,0,0
+2006,NPL,KOR,Nepal,Republic of Korea,0,0,86,0,0,0
+2006,NPL,MEX,Nepal,Mexico,5,0,0,0,0,0
+2006,NPL,MYS,Nepal,Malaysia,17,0,287,0,0,0
+2006,NPL,NPL,Nepal,Nepal,0,100000,0,0,0,0
+2006,NPL,NLD,Nepal,Netherlands,105,0,110,0,0,0
+2006,NPL,NOR,Nepal,Norway,18,0,106,0,0,0
+2006,NPL,NZL,Nepal,New Zealand,18,0,5,0,0,0
+2006,NPL,POL,Nepal,Poland,5,0,5,0,0,0
+2006,NPL,ESP,Nepal,Spain,5,0,0,0,0,0
+2006,NPL,SWE,Nepal,Sweden,17,0,15,0,0,0
+2006,NPL,CHE,Nepal,Switzerland,5,0,6,0,0,0
+2006,NPL,THA,Nepal,Thailand,67,0,45,0,0,0
+2006,NPL,USA,Nepal,United States of America,1518,0,568,0,0,0
+2007,NPL,AUS,Nepal,Australia,100,0,24,0,0,0
+2007,NPL,AUT,Nepal,Austria,13,0,167,0,0,0
+2007,NPL,BEL,Nepal,Belgium,31,0,0,0,0,0
+2007,NPL,CAN,Nepal,Canada,513,0,161,0,0,0
+2007,NPL,CYP,Nepal,Cyprus,0,0,249,0,0,0
+2007,NPL,ECU,Nepal,Ecuador,0,0,12,0,0,0
+2007,NPL,FIN,Nepal,Finland,7,0,0,0,0,0
+2007,NPL,FRA,Nepal,France,36,0,0,0,0,0
+2007,NPL,GBR,Nepal,United Kingdom of Great Britain and Northern Ireland,153,0,0,0,0,0
+2007,NPL,DEU,Nepal,Germany,248,0,55,0,0,0
+2007,NPL,HKG,Nepal,"China, Hong Kong Special Administrative Region",6,0,198,0,0,0
+2007,NPL,HUN,Nepal,Hungary,15,0,0,0,0,0
+2007,NPL,IRL,Nepal,Ireland,5,0,8,0,0,0
+2007,NPL,ISR,Nepal,Israel,0,0,10,0,0,0
+2007,NPL,ITA,Nepal,Italy,5,0,0,0,0,0
+2007,NPL,JPN,Nepal,Japan,0,0,5,0,0,0
+2007,NPL,KOR,Nepal,Republic of Korea,0,0,347,0,0,0
+2007,NPL,MEX,Nepal,Mexico,5,0,0,0,0,0
+2007,NPL,MYS,Nepal,Malaysia,16,0,187,0,0,0
+2007,NPL,NPL,Nepal,Nepal,0,50000,0,0,0,0
+2007,NPL,NLD,Nepal,Netherlands,156,0,0,0,0,0
+2007,NPL,NOR,Nepal,Norway,16,0,69,0,0,0
+2007,NPL,NZL,Nepal,New Zealand,17,0,0,0,0,0
+2007,NPL,POL,Nepal,Poland,5,0,5,0,0,0
+2007,NPL,ESP,Nepal,Spain,5,0,0,0,0,0
+2007,NPL,SWE,Nepal,Sweden,10,0,36,0,0,0
+2007,NPL,THA,Nepal,Thailand,51,0,24,0,0,0
+2007,NPL,UKR,Nepal,Ukraine,0,0,5,0,0,0
+2007,NPL,USA,Nepal,United States of America,1953,0,575,0,0,0
+2008,NPL,AUS,Nepal,Australia,114,0,17,0,0,0
+2008,NPL,AUT,Nepal,Austria,19,0,167,0,0,0
+2008,NPL,BEL,Nepal,Belgium,24,0,0,0,0,0
+2008,NPL,CAN,Nepal,Canada,730,0,202,0,0,0
+2008,NPL,CYP,Nepal,Cyprus,0,0,183,0,0,0
+2008,NPL,CZE,Nepal,Czechia,0,0,5,0,0,0
+2008,NPL,DNK,Nepal,Denmark,5,0,0,0,0,0
+2008,NPL,ECU,Nepal,Ecuador,5,0,8,0,0,0
+2008,NPL,FIN,Nepal,Finland,8,0,0,0,0,0
+2008,NPL,FRA,Nepal,France,42,0,0,0,0,0
+2008,NPL,GBR,Nepal,United Kingdom of Great Britain and Northern Ireland,153,0,0,0,0,0
+2008,NPL,DEU,Nepal,Germany,259,0,36,0,0,0
+2008,NPL,HKG,Nepal,"China, Hong Kong Special Administrative Region",8,0,44,0,0,0
+2008,NPL,HUN,Nepal,Hungary,15,0,0,0,0,0
+2008,NPL,IRL,Nepal,Ireland,5,0,8,0,0,0
+2008,NPL,ISR,Nepal,Israel,0,0,8,0,0,0
+2008,NPL,ITA,Nepal,Italy,5,0,0,0,0,0
+2008,NPL,JPN,Nepal,Japan,0,0,13,0,0,0
+2008,NPL,KOR,Nepal,Republic of Korea,0,0,295,0,0,0
+2008,NPL,MEX,Nepal,Mexico,5,0,0,0,0,0
+2008,NPL,MYS,Nepal,Malaysia,8,0,53,0,0,0
+2008,NPL,NLD,Nepal,Netherlands,213,0,0,0,0,0
+2008,NPL,NOR,Nepal,Norway,19,0,176,0,0,0
+2008,NPL,NZL,Nepal,New Zealand,17,0,5,0,0,0
+2008,NPL,POL,Nepal,Poland,5,0,10,0,0,0
+2008,NPL,ESP,Nepal,Spain,5,0,0,0,0,0
+2008,NPL,SWE,Nepal,Sweden,13,0,100,0,0,0
+2008,NPL,CHE,Nepal,Switzerland,11,0,38,0,0,0
+2008,NPL,THA,Nepal,Thailand,38,0,0,0,0,0
+2008,NPL,USA,Nepal,United States of America,2464,0,725,0,0,0
+2009,NPL,AUS,Nepal,Australia,130,0,30,0,0,0
+2009,NPL,AUT,Nepal,Austria,28,0,145,0,0,0
+2009,NPL,BEL,Nepal,Belgium,25,0,0,0,0,0
+2009,NPL,CAN,Nepal,Canada,809,0,269,0,0,0
+2009,NPL,COL,Nepal,Colombia,0,0,6,0,0,0
+2009,NPL,CRI,Nepal,Costa Rica,0,0,17,0,0,0
+2009,NPL,CYP,Nepal,Cyprus,0,0,17,0,0,0
+2009,NPL,DNK,Nepal,Denmark,5,0,0,0,0,0
+2009,NPL,ECU,Nepal,Ecuador,5,0,11,0,0,0
+2009,NPL,FIN,Nepal,Finland,8,0,0,0,0,0
+2009,NPL,FRA,Nepal,France,50,0,0,0,0,0
+2009,NPL,GBR,Nepal,United Kingdom of Great Britain and Northern Ireland,155,0,0,0,0,0
+2009,NPL,DEU,Nepal,Germany,350,0,38,0,0,0
+2009,NPL,HKG,Nepal,"China, Hong Kong Special Administrative Region",7,0,57,0,0,0
+2009,NPL,HUN,Nepal,Hungary,15,0,0,0,0,0
+2009,NPL,IRL,Nepal,Ireland,5,0,5,0,0,0
+2009,NPL,ISR,Nepal,Israel,0,0,9,0,0,0
+2009,NPL,ITA,Nepal,Italy,20,0,0,0,0,0
+2009,NPL,JPN,Nepal,Japan,0,0,24,0,0,0
+2009,NPL,KOR,Nepal,Republic of Korea,5,0,0,0,0,0
+2009,NPL,MEX,Nepal,Mexico,5,0,0,0,0,0
+2009,NPL,MYS,Nepal,Malaysia,6,0,14,5,0,0
+2009,NPL,NLD,Nepal,Netherlands,255,0,88,0,0,0
+2009,NPL,NOR,Nepal,Norway,21,0,186,0,0,0
+2009,NPL,NZL,Nepal,New Zealand,18,0,0,0,0,0
+2009,NPL,PAN,Nepal,Panama,0,0,16,0,0,0
+2009,NPL,POL,Nepal,Poland,5,0,15,0,0,0
+2009,NPL,SLV,Nepal,El Salvador,0,0,22,0,0,0
+2009,NPL,ESP,Nepal,Spain,5,0,0,0,0,0
+2009,NPL,SWE,Nepal,Sweden,16,0,62,0,0,0
+2009,NPL,CHE,Nepal,Switzerland,10,0,36,0,0,0
+2009,NPL,THA,Nepal,Thailand,18,0,10,0,0,0
+2009,NPL,UKR,Nepal,Ukraine,0,0,6,0,0,0
+2009,NPL,USA,Nepal,United States of America,3125,0,716,0,0,0
+2010,NPL,AUS,Nepal,Australia,154,0,100,0,0,0
+2010,NPL,AUT,Nepal,Austria,35,0,73,0,0,0
+2010,NPL,BEL,Nepal,Belgium,19,0,0,0,0,0
+2010,NPL,CAN,Nepal,Canada,863,0,222,0,0,0
+2010,NPL,COL,Nepal,Colombia,0,0,6,0,0,0
+2010,NPL,CYP,Nepal,Cyprus,0,0,77,0,0,0
+2010,NPL,DNK,Nepal,Denmark,5,0,6,0,0,0
+2010,NPL,ECU,Nepal,Ecuador,5,0,34,0,0,0
+2010,NPL,FIN,Nepal,Finland,9,0,0,0,0,0
+2010,NPL,FRA,Nepal,France,55,0,0,0,0,0
+2010,NPL,GBR,Nepal,United Kingdom of Great Britain and Northern Ireland,156,0,0,0,0,0
+2010,NPL,DEU,Nepal,Germany,349,0,31,0,0,0
+2010,NPL,GRC,Nepal,Greece,0,0,16,0,0,0
+2010,NPL,HKG,Nepal,"China, Hong Kong Special Administrative Region",7,0,25,0,0,0
+2010,NPL,HUN,Nepal,Hungary,15,0,0,0,0,0
+2010,NPL,IRL,Nepal,Ireland,5,0,26,0,0,0
+2010,NPL,ISR,Nepal,Israel,0,0,8,0,0,0
+2010,NPL,ITA,Nepal,Italy,21,0,5,0,0,0
+2010,NPL,JPN,Nepal,Japan,0,0,102,0,0,0
+2010,NPL,KOR,Nepal,Republic of Korea,5,0,0,0,0,0
+2010,NPL,KWT,Nepal,Kuwait,0,0,5,0,0,0
+2010,NPL,MEX,Nepal,Mexico,11,0,0,0,0,0
+2010,NPL,MYS,Nepal,Malaysia,12,0,7,0,0,0
+2010,NPL,NLD,Nepal,Netherlands,299,0,87,0,0,0
+2010,NPL,NOR,Nepal,Norway,20,0,43,0,0,0
+2010,NPL,NZL,Nepal,New Zealand,18,0,0,0,0,0
+2010,NPL,PAN,Nepal,Panama,0,0,16,0,0,0
+2010,NPL,POL,Nepal,Poland,7,0,23,0,0,0
+2010,NPL,ESP,Nepal,Spain,5,0,0,0,0,0
+2010,NPL,SWE,Nepal,Sweden,19,0,26,0,0,0
+2010,NPL,CHE,Nepal,Switzerland,8,0,31,0,0,0
+2010,NPL,THA,Nepal,Thailand,17,0,5,0,0,0
+2010,NPL,UKR,Nepal,Ukraine,0,0,7,0,0,0
+2010,NPL,USA,Nepal,United States of America,3764,0,179,0,0,0
+2011,NPL,ARG,Nepal,Argentina,0,0,5,0,0,0
+2011,NPL,AUS,Nepal,Australia,186,0,223,0,0,0
+2011,NPL,AUT,Nepal,Austria,38,0,101,0,0,0
+2011,NPL,BEL,Nepal,Belgium,17,0,446,0,0,0
+2011,NPL,CAN,Nepal,Canada,986,0,77,0,0,0
+2011,NPL,COL,Nepal,Colombia,0,0,6,0,0,0
+2011,NPL,CYP,Nepal,Cyprus,0,0,46,0,0,0
+2011,NPL,DNK,Nepal,Denmark,5,0,5,0,0,0
+2011,NPL,ECU,Nepal,Ecuador,5,0,9,0,0,0
+2011,NPL,FIN,Nepal,Finland,9,0,0,0,0,0
+2011,NPL,FRA,Nepal,France,62,0,0,0,0,0
+2011,NPL,GBR,Nepal,United Kingdom of Great Britain and Northern Ireland,117,0,15,0,0,0
+2011,NPL,DEU,Nepal,Germany,331,0,39,0,0,0
+2011,NPL,HKG,Nepal,"China, Hong Kong Special Administrative Region",5,0,15,0,0,0
+2011,NPL,HUN,Nepal,Hungary,15,0,0,0,0,0
+2011,NPL,IRL,Nepal,Ireland,5,0,27,0,0,0
+2011,NPL,ITA,Nepal,Italy,22,0,0,0,0,0
+2011,NPL,JPN,Nepal,Japan,0,0,300,0,0,0
+2011,NPL,KOR,Nepal,Republic of Korea,5,0,16,0,0,0
+2011,NPL,MEX,Nepal,Mexico,15,0,9,0,0,0
+2011,NPL,MYS,Nepal,Malaysia,9,0,6,0,0,0
+2011,NPL,NLD,Nepal,Netherlands,348,0,124,0,0,0
+2011,NPL,NOR,Nepal,Norway,14,0,22,0,0,0
+2011,NPL,NZL,Nepal,New Zealand,17,0,0,0,0,0
+2011,NPL,PAN,Nepal,Panama,0,0,16,0,0,0
+2011,NPL,PER,Nepal,Peru,0,0,5,0,0,0
+2011,NPL,POL,Nepal,Poland,8,0,9,0,0,0
+2011,NPL,ESP,Nepal,Spain,6,0,0,0,0,0
+2011,NPL,SWE,Nepal,Sweden,22,0,16,0,0,0
+2011,NPL,CHE,Nepal,Switzerland,8,0,25,0,0,0
+2011,NPL,THA,Nepal,Thailand,18,0,9,0,0,0
+2011,NPL,UKR,Nepal,Ukraine,0,0,10,0,0,0
+2011,NPL,USA,Nepal,United States of America,4574,0,423,0,0,0
+2012,NPL,AUS,Nepal,Australia,196,0,185,0,0,0
+2012,NPL,AUT,Nepal,Austria,40,0,81,0,0,0
+2012,NPL,BEL,Nepal,Belgium,13,0,381,0,0,0
+2012,NPL,BRA,Nepal,Brazil,0,0,32,0,0,0
+2012,NPL,CAN,Nepal,Canada,1128,0,60,0,0,0
+2012,NPL,CHL,Nepal,Chile,0,0,5,0,0,0
+2012,NPL,CYP,Nepal,Cyprus,0,0,10,0,0,0
+2012,NPL,DNK,Nepal,Denmark,8,0,0,0,0,0
+2012,NPL,ECU,Nepal,Ecuador,5,0,0,0,0,0
+2012,NPL,FIN,Nepal,Finland,8,0,0,0,0,0
+2012,NPL,FRA,Nepal,France,77,0,0,0,0,0
+2012,NPL,GBR,Nepal,United Kingdom of Great Britain and Northern Ireland,119,0,22,0,0,0
+2012,NPL,DEU,Nepal,Germany,349,0,49,0,0,0
+2012,NPL,HKG,Nepal,"China, Hong Kong Special Administrative Region",5,0,14,0,0,0
+2012,NPL,HUN,Nepal,Hungary,15,0,0,0,0,0
+2012,NPL,IDN,Nepal,Indonesia,0,0,6,0,0,0
+2012,NPL,IRL,Nepal,Ireland,5,0,31,0,0,0
+2012,NPL,ITA,Nepal,Italy,24,0,7,0,0,0
+2012,NPL,JPN,Nepal,Japan,0,0,496,0,0,0
+2012,NPL,KOR,Nepal,Republic of Korea,5,0,48,0,0,0
+2012,NPL,MYS,Nepal,Malaysia,9,0,7,0,0,0
+2012,NPL,NLD,Nepal,Netherlands,385,0,124,0,0,0
+2012,NPL,NOR,Nepal,Norway,14,0,15,0,0,0
+2012,NPL,NZL,Nepal,New Zealand,17,0,5,0,0,0
+2012,NPL,PAN,Nepal,Panama,0,0,16,0,0,0
+2012,NPL,PER,Nepal,Peru,0,0,5,0,0,0
+2012,NPL,POL,Nepal,Poland,9,0,5,0,0,0
+2012,NPL,ZAF,Nepal,South Africa,0,0,58,0,0,0
+2012,NPL,ESP,Nepal,Spain,6,0,0,0,0,0
+2012,NPL,SWE,Nepal,Sweden,22,0,13,0,0,0
+2012,NPL,CHE,Nepal,Switzerland,8,0,47,0,0,0
+2012,NPL,THA,Nepal,Thailand,15,0,8,0,0,0
+2012,NPL,UKR,Nepal,Ukraine,0,0,18,0,0,0
+2012,NPL,USA,Nepal,United States of America,5121,0,763,0,0,0
+2013,NPL,AUS,Nepal,Australia,197,0,300,0,0,0
+2013,NPL,AUT,Nepal,Austria,41,0,63,0,0,0
+2013,NPL,BEL,Nepal,Belgium,12,0,71,0,0,0
+2013,NPL,BRA,Nepal,Brazil,5,0,33,0,0,0
+2013,NPL,CAN,Nepal,Canada,1212,0,49,0,0,0
+2013,NPL,CRI,Nepal,Costa Rica,0,0,8,0,0,0
+2013,NPL,DNK,Nepal,Denmark,8,0,0,0,0,0
+2013,NPL,ECU,Nepal,Ecuador,5,0,0,0,0,0
+2013,NPL,FIN,Nepal,Finland,5,0,0,0,0,0
+2013,NPL,FRA,Nepal,France,100,0,106,0,0,0
+2013,NPL,GBR,Nepal,United Kingdom of Great Britain and Northern Ireland,118,0,24,0,0,0
+2013,NPL,DEU,Nepal,Germany,55,0,50,0,0,0
+2013,NPL,GRC,Nepal,Greece,0,0,24,0,0,0
+2013,NPL,HKG,Nepal,"China, Hong Kong Special Administrative Region",5,0,29,0,0,0
+2013,NPL,HUN,Nepal,Hungary,7,0,0,0,0,0
+2013,NPL,IDN,Nepal,Indonesia,0,0,12,0,0,0
+2013,NPL,IRL,Nepal,Ireland,0,0,24,0,0,0
+2013,NPL,ITA,Nepal,Italy,25,0,5,0,0,0
+2013,NPL,JPN,Nepal,Japan,0,0,856,0,0,0
+2013,NPL,KOR,Nepal,Republic of Korea,5,0,111,0,0,0
+2013,NPL,MEX,Nepal,Mexico,0,0,5,0,0,0
+2013,NPL,MYS,Nepal,Malaysia,7,0,0,0,0,0
+2013,NPL,NLD,Nepal,Netherlands,430,0,0,0,0,0
+2013,NPL,NOR,Nepal,Norway,14,0,7,0,0,0
+2013,NPL,NZL,Nepal,New Zealand,16,0,5,0,0,0
+2013,NPL,PAN,Nepal,Panama,0,0,16,0,0,0
+2013,NPL,POL,Nepal,Poland,9,0,0,0,0,0
+2013,NPL,ZAF,Nepal,South Africa,0,0,78,0,0,0
+2013,NPL,ESP,Nepal,Spain,6,0,0,0,0,0
+2013,NPL,SWE,Nepal,Sweden,25,0,11,0,0,0
+2013,NPL,CHE,Nepal,Switzerland,9,0,34,0,0,0
+2013,NPL,THA,Nepal,Thailand,13,0,7,0,0,0
+2013,NPL,TUR,Nepal,Turkey,0,0,11,0,0,0
+2013,NPL,UKR,Nepal,Ukraine,0,0,13,0,0,0
+2013,NPL,USA,Nepal,United States of America,5771,0,1831,0,0,0
+2014,NPL,AUS,Nepal,Australia,205,0,493,0,0,0
+2014,NPL,AUT,Nepal,Austria,41,0,0,0,0,0
+2014,NPL,AZE,Nepal,Azerbaijan,0,0,10,0,0,0
+2014,NPL,BEL,Nepal,Belgium,15,0,17,0,0,0
+2014,NPL,BRA,Nepal,Brazil,5,0,45,0,0,0
+2014,NPL,CAN,Nepal,Canada,1223,0,22,0,0,0
+2014,NPL,COL,Nepal,Colombia,0,0,10,0,0,0
+2014,NPL,DNK,Nepal,Denmark,7,0,0,0,0,0
+2014,NPL,ECU,Nepal,Ecuador,5,0,0,0,0,0
+2014,NPL,FIN,Nepal,Finland,5,0,0,0,0,0
+2014,NPL,FRA,Nepal,France,108,0,108,0,0,0
+2014,NPL,GBR,Nepal,United Kingdom of Great Britain and Northern Ireland,110,0,33,0,0,0
+2014,NPL,DEU,Nepal,Germany,51,0,56,0,0,0
+2014,NPL,GRC,Nepal,Greece,0,0,5,0,0,0
+2014,NPL,GTM,Nepal,Guatemala,0,0,8,0,0,0
+2014,NPL,HKG,Nepal,"China, Hong Kong Special Administrative Region",0,0,42,0,0,0
+2014,NPL,HUN,Nepal,Hungary,7,0,0,0,0,0
+2014,NPL,IDN,Nepal,Indonesia,0,0,5,0,0,0
+2014,NPL,IRL,Nepal,Ireland,0,0,13,0,0,0
+2014,NPL,ITA,Nepal,Italy,28,0,32,0,0,0
+2014,NPL,JPN,Nepal,Japan,0,0,1870,0,0,0
+2014,NPL,KOR,Nepal,Republic of Korea,5,0,96,0,0,0
+2014,NPL,MEX,Nepal,Mexico,0,0,10,0,0,0
+2014,NPL,MYS,Nepal,Malaysia,5,0,0,0,0,0
+2014,NPL,NLD,Nepal,Netherlands,441,0,22,0,0,0
+2014,NPL,NOR,Nepal,Norway,11,0,6,0,0,0
+2014,NPL,NRU,Nepal,Nauru,0,0,11,0,0,0
+2014,NPL,NZL,Nepal,New Zealand,14,0,0,0,0,0
+2014,NPL,PAN,Nepal,Panama,0,0,16,0,0,0
+2014,NPL,PNG,Nepal,Papua New Guinea,0,0,10,0,0,0
+2014,NPL,POL,Nepal,Poland,9,0,0,0,0,0
+2014,NPL,ZAF,Nepal,South Africa,0,0,86,0,0,0
+2014,NPL,ESP,Nepal,Spain,6,0,0,0,0,0
+2014,NPL,SWE,Nepal,Sweden,21,0,9,0,0,0
+2014,NPL,CHE,Nepal,Switzerland,16,0,23,0,0,0
+2014,NPL,THA,Nepal,Thailand,12,0,7,0,0,0
+2014,NPL,TUR,Nepal,Turkey,0,0,14,0,0,0
+2014,NPL,UKR,Nepal,Ukraine,0,0,18,0,0,0
+2014,NPL,USA,Nepal,United States of America,6197,0,3547,0,0,0
+2015,NPL,AUS,Nepal,Australia,199,0,329,0,0,0
+2015,NPL,AUT,Nepal,Austria,47,0,85,0,0,0
+2015,NPL,BEL,Nepal,Belgium,13,0,37,0,0,0
+2015,NPL,BRA,Nepal,Brazil,5,0,62,0,0,0
+2015,NPL,CAN,Nepal,Canada,1304,0,74,0,0,0
+2015,NPL,CRI,Nepal,Costa Rica,0,0,115,0,0,0
+2015,NPL,CYP,Nepal,Cyprus,0,0,11,0,0,0
+2015,NPL,DNK,Nepal,Denmark,7,0,5,0,0,0
+2015,NPL,ECU,Nepal,Ecuador,5,0,0,0,0,0
+2015,NPL,FIN,Nepal,Finland,5,0,21,0,0,0
+2015,NPL,FRA,Nepal,France,119,0,105,0,0,0
+2015,NPL,FSM,Nepal,Micronesia (Federated States of),5,0,5,0,0,0
+2015,NPL,GBR,Nepal,United Kingdom of Great Britain and Northern Ireland,110,0,67,0,0,0
+2015,NPL,DEU,Nepal,Germany,45,0,40,0,0,0
+2015,NPL,GTM,Nepal,Guatemala,0,0,57,0,0,0
+2015,NPL,HKG,Nepal,"China, Hong Kong Special Administrative Region",0,0,42,0,0,0
+2015,NPL,HUN,Nepal,Hungary,9,0,9,0,0,0
+2015,NPL,IDN,Nepal,Indonesia,0,0,5,0,0,0
+2015,NPL,IRL,Nepal,Ireland,0,0,21,0,0,0
+2015,NPL,ITA,Nepal,Italy,56,0,12,0,0,0
+2015,NPL,JPN,Nepal,Japan,0,0,3096,0,0,0
+2015,NPL,KOR,Nepal,Republic of Korea,5,0,127,0,0,0
+2015,NPL,MEX,Nepal,Mexico,0,0,5,0,0,0
+2015,NPL,MYS,Nepal,Malaysia,6,0,0,0,0,0
+2015,NPL,MLT,Nepal,Malta,0,0,5,0,0,0
+2015,NPL,NLD,Nepal,Netherlands,416,0,18,0,0,0
+2015,NPL,NOR,Nepal,Norway,13,0,30,0,0,0
+2015,NPL,NRU,Nepal,Nauru,5,0,5,0,0,0
+2015,NPL,NZL,Nepal,New Zealand,12,0,0,0,0,0
+2015,NPL,PAN,Nepal,Panama,0,0,16,0,0,0
+2015,NPL,POL,Nepal,Poland,7,0,0,0,0,0
+2015,NPL,ZAF,Nepal,South Africa,0,0,140,0,0,0
+2015,NPL,ESP,Nepal,Spain,6,0,0,0,0,0
+2015,NPL,SWE,Nepal,Sweden,19,0,70,0,0,0
+2015,NPL,CHE,Nepal,Switzerland,18,0,17,0,0,0
+2015,NPL,THA,Nepal,Thailand,11,0,10,0,0,0
+2015,NPL,TUR,Nepal,Turkey,0,0,9,0,0,0
+2015,NPL,UKR,Nepal,Ukraine,0,0,18,0,0,0
+2015,NPL,USA,Nepal,United States of America,6605,0,4293,0,0,0
+2016,NPL,ARG,Nepal,Argentina,0,0,5,0,0,0
+2016,NPL,AUS,Nepal,Australia,200,0,287,0,0,0
+2016,NPL,AUT,Nepal,Austria,40,0,109,0,0,0
+2016,NPL,BEL,Nepal,Belgium,13,0,32,0,0,0
+2016,NPL,BRA,Nepal,Brazil,5,0,72,0,0,0
+2016,NPL,BGR,Nepal,Bulgaria,0,0,11,0,0,0
+2016,NPL,CAN,Nepal,Canada,566,0,144,0,0,0
+2016,NPL,COD,Nepal,Democratic Republic of the Congo,0,0,5,0,0,0
+2016,NPL,CRI,Nepal,Costa Rica,0,0,107,0,0,0
+2016,NPL,CYP,Nepal,Cyprus,0,0,42,0,0,0
+2016,NPL,DNK,Nepal,Denmark,7,0,0,0,0,0
+2016,NPL,FIN,Nepal,Finland,5,0,5,0,0,0
+2016,NPL,FRA,Nepal,France,128,0,22,0,0,0
+2016,NPL,FSM,Nepal,Micronesia (Federated States of),5,0,0,0,0,0
+2016,NPL,GBR,Nepal,United Kingdom of Great Britain and Northern Ireland,20,0,121,0,0,0
+2016,NPL,GEO,Nepal,Georgia,0,0,5,0,0,0
+2016,NPL,DEU,Nepal,Germany,42,0,160,0,0,0
+2016,NPL,GRC,Nepal,Greece,0,0,30,0,0,0
+2016,NPL,HUN,Nepal,Hungary,11,0,0,0,0,0
+2016,NPL,IRL,Nepal,Ireland,0,0,11,0,0,0
+2016,NPL,ISR,Nepal,Israel,0,0,6,0,0,0
+2016,NPL,ITA,Nepal,Italy,78,0,50,0,0,0
+2016,NPL,JPN,Nepal,Japan,0,0,4144,0,0,0
+2016,NPL,KOR,Nepal,Republic of Korea,5,0,174,0,0,0
+2016,NPL,MEX,Nepal,Mexico,0,0,5,0,0,0
+2016,NPL,MYS,Nepal,Malaysia,6,0,0,0,0,0
+2016,NPL,NPL,Nepal,Nepal,0,0,0,585,0,0
+2016,NPL,NLD,Nepal,Netherlands,367,0,12,0,0,0
+2016,NPL,NOR,Nepal,Norway,11,0,0,0,0,0
+2016,NPL,NRU,Nepal,Nauru,5,0,5,0,0,0
+2016,NPL,NZL,Nepal,New Zealand,7,0,0,0,0,0
+2016,NPL,PAN,Nepal,Panama,0,0,16,0,0,0
+2016,NPL,PER,Nepal,Peru,0,0,5,0,0,0
+2016,NPL,POL,Nepal,Poland,7,0,5,0,0,0
+2016,NPL,ZAF,Nepal,South Africa,0,0,35,0,0,0
+2016,NPL,SWE,Nepal,Sweden,20,0,34,0,0,0
+2016,NPL,CHE,Nepal,Switzerland,21,0,20,0,0,0
+2016,NPL,THA,Nepal,Thailand,12,0,7,0,0,0
+2016,NPL,TUR,Nepal,Turkey,0,0,6,0,0,0
+2016,NPL,UKR,Nepal,Ukraine,0,0,19,0,0,0
+2016,NPL,USA,Nepal,United States of America,6784,0,5820,0,0,0
+2017,NPL,ARG,Nepal,Argentina,0,0,5,0,0,0
+2017,NPL,AUS,Nepal,Australia,182,0,327,0,0,0
+2017,NPL,AUT,Nepal,Austria,39,0,82,0,0,0
+2017,NPL,BEL,Nepal,Belgium,13,0,20,0,0,0
+2017,NPL,BRA,Nepal,Brazil,6,0,143,0,0,0
+2017,NPL,BIH,Nepal,Bosnia and Herzegovina,0,0,5,0,0,0
+2017,NPL,CAN,Nepal,Canada,557,0,188,0,0,0
+2017,NPL,COD,Nepal,Democratic Republic of the Congo,0,0,5,0,0,0
+2017,NPL,CRI,Nepal,Costa Rica,0,0,107,0,0,0
+2017,NPL,CYP,Nepal,Cyprus,0,0,102,0,0,0
+2017,NPL,DNK,Nepal,Denmark,7,0,0,0,0,0
+2017,NPL,ECU,Nepal,Ecuador,5,0,0,0,0,0
+2017,NPL,FRA,Nepal,France,129,0,67,0,0,0
+2017,NPL,GBR,Nepal,United Kingdom of Great Britain and Northern Ireland,24,0,135,0,0,0
+2017,NPL,DEU,Nepal,Germany,50,0,142,0,0,0
+2017,NPL,GRC,Nepal,Greece,5,0,63,0,0,0
+2017,NPL,HUN,Nepal,Hungary,11,0,0,0,0,0
+2017,NPL,IRL,Nepal,Ireland,0,0,17,0,0,0
+2017,NPL,ISR,Nepal,Israel,0,0,8,0,0,0
+2017,NPL,ITA,Nepal,Italy,95,0,156,0,0,0
+2017,NPL,JPN,Nepal,Japan,0,0,4520,0,0,0
+2017,NPL,KOR,Nepal,Republic of Korea,5,0,135,0,0,0
+2017,NPL,LKA,Nepal,Sri Lanka,0,0,5,0,0,0
+2017,NPL,MEX,Nepal,Mexico,0,0,5,0,0,0
+2017,NPL,MYS,Nepal,Malaysia,9,0,0,0,0,0
+2017,NPL,NPL,Nepal,Nepal,0,0,0,382,0,0
+2017,NPL,NLD,Nepal,Netherlands,294,0,0,0,0,0
+2017,NPL,NOR,Nepal,Norway,10,0,0,0,0,0
+2017,NPL,NRU,Nepal,Nauru,5,0,9,0,0,0
+2017,NPL,NZL,Nepal,New Zealand,5,0,0,0,0,0
+2017,NPL,PAN,Nepal,Panama,0,0,16,0,0,0
+2017,NPL,PER,Nepal,Peru,0,0,5,0,0,0
+2017,NPL,POL,Nepal,Poland,7,0,0,0,0,0
+2017,NPL,SWE,Nepal,Sweden,19,0,12,0,0,0
+2017,NPL,CHE,Nepal,Switzerland,19,0,11,0,0,0
+2017,NPL,THA,Nepal,Thailand,11,0,0,0,0,0
+2017,NPL,TUR,Nepal,Turkey,0,0,5,0,0,0
+2017,NPL,UKR,Nepal,Ukraine,0,0,19,0,0,0
+2017,NPL,USA,Nepal,United States of America,6907,0,6872,0,0,0
+2018,NPL,ARG,Nepal,Argentina,0,0,5,0,0,0
+2018,NPL,AUS,Nepal,Australia,159,0,442,0,0,0
+2018,NPL,AUT,Nepal,Austria,35,0,71,0,0,0
+2018,NPL,AZE,Nepal,Azerbaijan,0,0,7,0,0,0
+2018,NPL,BEL,Nepal,Belgium,13,0,5,0,0,0
+2018,NPL,BRA,Nepal,Brazil,10,0,264,0,0,0
+2018,NPL,BIH,Nepal,Bosnia and Herzegovina,0,0,8,0,0,0
+2018,NPL,CAN,Nepal,Canada,611,0,213,0,0,0
+2018,NPL,COD,Nepal,Democratic Republic of the Congo,0,0,5,0,0,0
+2018,NPL,CRI,Nepal,Costa Rica,0,0,105,0,0,0
+2018,NPL,CYP,Nepal,Cyprus,0,0,205,0,0,0
+2018,NPL,DNK,Nepal,Denmark,5,0,0,0,0,0
+2018,NPL,ECU,Nepal,Ecuador,5,0,0,0,0,0
+2018,NPL,FRA,Nepal,France,141,0,70,0,0,0
+2018,NPL,GBR,Nepal,United Kingdom of Great Britain and Northern Ireland,38,0,172,0,0,0
+2018,NPL,DEU,Nepal,Germany,56,0,129,0,0,0
+2018,NPL,GRC,Nepal,Greece,10,0,138,0,0,0
+2018,NPL,HUN,Nepal,Hungary,11,0,0,0,0,0
+2018,NPL,IRL,Nepal,Ireland,5,0,21,0,0,0
+2018,NPL,ISR,Nepal,Israel,0,0,42,0,0,0
+2018,NPL,ITA,Nepal,Italy,114,0,127,0,0,0
+2018,NPL,KOR,Nepal,Republic of Korea,5,0,226,0,0,0
+2018,NPL,MYS,Nepal,Malaysia,9,0,0,0,0,0
+2018,NPL,MNE,Nepal,Montenegro,0,0,5,0,0,0
+2018,NPL,NPL,Nepal,Nepal,0,0,0,328,0,0
+2018,NPL,NLD,Nepal,Netherlands,239,0,0,0,0,0
+2018,NPL,NOR,Nepal,Norway,7,0,0,0,0,0
+2018,NPL,NRU,Nepal,Nauru,5,0,14,0,0,0
+2018,NPL,NZL,Nepal,New Zealand,5,0,0,0,0,0
+2018,NPL,PAN,Nepal,Panama,0,0,14,0,0,0
+2018,NPL,PER,Nepal,Peru,0,0,5,0,0,0
+2018,NPL,POL,Nepal,Poland,8,0,0,0,0,0
+2018,NPL,ESP,Nepal,Spain,0,0,5,0,0,0
+2018,NPL,SWE,Nepal,Sweden,16,0,20,0,0,0
+2018,NPL,CHE,Nepal,Switzerland,19,0,8,0,0,0
+2018,NPL,THA,Nepal,Thailand,10,0,0,0,0,0
+2018,NPL,TUR,Nepal,Turkey,0,0,5,0,0,0
+2018,NPL,UKR,Nepal,Ukraine,0,0,19,0,0,0
+2018,NPL,USA,Nepal,United States of America,7053,0,6724,0,0,0
+2019,NPL,ARG,Nepal,Argentina,0,0,5,0,0,0
+2019,NPL,AUS,Nepal,Australia,143,0,553,0,0,0
+2019,NPL,AUT,Nepal,Austria,26,0,60,0,0,0
+2019,NPL,BEL,Nepal,Belgium,8,0,5,0,0,0
+2019,NPL,BRA,Nepal,Brazil,11,0,373,0,0,0
+2019,NPL,BIH,Nepal,Bosnia and Herzegovina,0,0,5,21,0,0
+2019,NPL,CAN,Nepal,Canada,31,0,257,0,0,0
+2019,NPL,CRI,Nepal,Costa Rica,0,0,105,0,0,0
+2019,NPL,CYP,Nepal,Cyprus,0,0,448,0,0,0
+2019,NPL,DNK,Nepal,Denmark,5,0,0,0,0,0
+2019,NPL,ECU,Nepal,Ecuador,5,0,0,0,0,0
+2019,NPL,FIN,Nepal,Finland,0,0,5,0,0,0
+2019,NPL,FRA,Nepal,France,150,0,35,0,0,0
+2019,NPL,GBR,Nepal,United Kingdom of Great Britain and Northern Ireland,47,0,287,0,0,0
+2019,NPL,DEU,Nepal,Germany,61,0,81,0,0,0
+2019,NPL,GRC,Nepal,Greece,12,0,175,0,0,0
+2019,NPL,HRV,Nepal,Croatia,0,0,5,0,0,0
+2019,NPL,HUN,Nepal,Hungary,11,0,0,0,0,0
+2019,NPL,IRL,Nepal,Ireland,6,0,26,0,0,0
+2019,NPL,ISR,Nepal,Israel,0,0,28,0,0,0
+2019,NPL,ITA,Nepal,Italy,130,0,50,0,0,0
+2019,NPL,KOR,Nepal,Republic of Korea,5,0,431,0,0,0
+2019,NPL,MEX,Nepal,Mexico,0,0,9,0,0,0
+2019,NPL,MYS,Nepal,Malaysia,10,0,0,0,0,0
+2019,NPL,MLT,Nepal,Malta,0,0,19,0,0,0
+2019,NPL,NPL,Nepal,Nepal,0,0,0,324,0,0
+2019,NPL,NLD,Nepal,Netherlands,192,0,7,0,0,0
+2019,NPL,NOR,Nepal,Norway,5,0,0,0,0,0
+2019,NPL,NRU,Nepal,Nauru,0,0,15,0,0,0
+2019,NPL,NZL,Nepal,New Zealand,5,0,5,0,0,0
+2019,NPL,PAN,Nepal,Panama,0,0,12,0,0,0
+2019,NPL,PER,Nepal,Peru,0,0,5,0,0,0
+2019,NPL,POL,Nepal,Poland,8,0,0,0,0,0
+2019,NPL,ZAF,Nepal,South Africa,0,0,146,0,0,0
+2019,NPL,ESP,Nepal,Spain,0,0,5,0,0,0
+2019,NPL,SWE,Nepal,Sweden,14,0,20,0,0,0
+2019,NPL,CHE,Nepal,Switzerland,20,0,8,0,0,0
+2019,NPL,THA,Nepal,Thailand,6,0,0,0,0,0
+2019,NPL,USA,Nepal,United States of America,7122,0,6755,0,0,0
+2020,NPL,ARG,Nepal,Argentina,0,0,5,0,0,0
+2020,NPL,AUS,Nepal,Australia,134,0,587,0,0,0
+2020,NPL,AUT,Nepal,Austria,22,0,47,0,0,0
+2020,NPL,BEL,Nepal,Belgium,8,0,5,0,0,0
+2020,NPL,BRA,Nepal,Brazil,12,0,380,0,0,0
+2020,NPL,BIH,Nepal,Bosnia and Herzegovina,0,0,0,16,0,0
+2020,NPL,CAN,Nepal,Canada,0,0,243,0,0,0
+2020,NPL,CRI,Nepal,Costa Rica,0,0,105,0,0,0
+2020,NPL,CYP,Nepal,Cyprus,0,0,457,0,0,0
+2020,NPL,DNK,Nepal,Denmark,5,0,5,0,0,0
+2020,NPL,ECU,Nepal,Ecuador,5,0,0,0,0,0
+2020,NPL,FIN,Nepal,Finland,0,0,5,0,0,0
+2020,NPL,FRA,Nepal,France,150,0,80,0,0,0
+2020,NPL,GBR,Nepal,United Kingdom of Great Britain and Northern Ireland,49,0,300,0,0,0
+2020,NPL,DEU,Nepal,Germany,64,0,54,0,0,0
+2020,NPL,GRC,Nepal,Greece,14,0,163,0,0,0
+2020,NPL,HRV,Nepal,Croatia,0,0,0,5,0,0
+2020,NPL,HUN,Nepal,Hungary,11,0,0,0,0,0
+2020,NPL,IRL,Nepal,Ireland,6,0,20,0,0,0
+2020,NPL,ISR,Nepal,Israel,0,0,32,0,0,0
+2020,NPL,ITA,Nepal,Italy,136,0,57,0,0,0
+2020,NPL,KOR,Nepal,Republic of Korea,5,0,511,0,0,0
+2020,NPL,MEX,Nepal,Mexico,0,0,15,0,0,0
+2020,NPL,MYS,Nepal,Malaysia,9,0,0,0,0,0
+2020,NPL,MLT,Nepal,Malta,0,0,19,0,0,0
+2020,NPL,NPL,Nepal,Nepal,0,0,0,343,0,0
+2020,NPL,NLD,Nepal,Netherlands,170,0,5,0,0,0
+2020,NPL,NOR,Nepal,Norway,5,0,0,0,0,0
+2020,NPL,NRU,Nepal,Nauru,11,0,6,0,0,0
+2020,NPL,NZL,Nepal,New Zealand,5,0,5,0,0,0
+2020,NPL,PAN,Nepal,Panama,0,0,12,0,0,0
+2020,NPL,PER,Nepal,Peru,0,0,5,0,0,0
+2020,NPL,POL,Nepal,Poland,8,0,0,0,0,0
+2020,NPL,ZAF,Nepal,South Africa,0,0,146,0,0,0
+2020,NPL,ESP,Nepal,Spain,0,0,5,0,0,0
+2020,NPL,SWE,Nepal,Sweden,12,0,19,0,0,0
+2020,NPL,CHE,Nepal,Switzerland,21,0,9,0,0,0
+2020,NPL,THA,Nepal,Thailand,5,0,0,0,0,0
+2020,NPL,USA,Nepal,United States of America,7007,0,6724,0,0,0

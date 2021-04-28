@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Labor mig</title>
+   
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+   
+  <div id="myDiv"></div>
+
+  <script>
+    Plotly.newPlot('myDiv', {
+  data: [{
+    x: [1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020],
+    y: [0, 0, 0, 55, 50, 57, 44, 49, 68, 83, 111, 147, 678, 771, 823, 1212, 1453, 1734,2727, 2983, 3464, 4217, 4793, 5584, 6730, 6612, 6928, 8294, 8250,7392],
+    line: {
+      color: 'black',
+      simplify: false,
+    }
+  }],
+  layout: {
+    sliders: [{
+      pad: {t: 30},
+      x: 0.05,
+      len: 0.95,
+      currentvalue: {
+        xanchor: 'right',
+        font: {
+          color: '#888',
+          size: 20
+        }
+      },
+      transition: {duration: 400},
+      // By default, animate commands are bound to the most recently animated frame:
+    }],
+
+    updatemenus: [{
+      type: 'buttons',
+      showactive: false,
+      x: 0.05,
+      y: 0,
+      xanchor: 'right',
+      yanchor: 'top',
+      pad: {t: 60, r: 20},
+      buttons: [{
+        label: 'Play',
+        method: 'animate',
+        args: [null, {
+          fromcurrent: true,
+          frame: {redraw: false, duration: 1000},
+          transition: {duration: 500}
+        }]
+      }]
+    }]
+  },
+  // The slider itself does not contain any notion of timing, so animating a slider
+  // must be accomplished through a sequence of frames. Here we'll change the color
+  // and the data of a single trace:
+  frames: [{
+    name: 'Remittances',
+    data: [{
+      x: [1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020],
+      y: [0, 0, 0, 55, 50, 57, 44, 49, 68, 83, 111, 147, 678, 771, 823, 1212, 1453, 1734,2727, 2983, 3464, 4217, 4793, 5584, 6730, 6612, 6928, 8294, 8250,7392],
+      'line.color': 'black'
+    }]
+  },]
+});
+
+Plotly.newPlot('myDiv', data, layout);
+  </script>
+
+  </body>
+
+</html>

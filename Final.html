@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webpage_FinalVisualization</title>
+
+    <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+</head>
+
+<style>
+    body {
+        background-color: bisque;
+    }
+/* Webpage Title */
+    .daOliveBox {
+        background-color:darkolivegreen;
+        position:absolute;
+        top:5%;
+        left:0%;
+        width:100%;
+        height:16%;
+        font-size: small;
+    }
+    h1 {
+        position: relative;
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+  /* Labor Migration Text */
+    #daLaborMig1 {
+        color:black;
+        position:absolute;
+        top:113% ;
+        left:38%;
+        width: 25%;
+        height: 11%;
+        font-size: large;
+    }
+    h2 {
+        position: relative;
+        text-align: center;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+    #daLaborMig2 {
+      color: black;
+        position:absolute;
+        top:123% ;
+        left:30%;
+        width: 40%;
+        height: 11%;
+        font-size: small;
+    } 
+    h3 {
+      position: relative;
+        text-align: center;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    } 
+  h7 {
+    position: absolute;
+        text-align: center;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        top: -32px;
+        left: 150px;
+        
+  }
+
+/* Asylum Seeking Section */
+  #myDiv2 {
+    position:absolute;
+        top:1425px ;
+        left:50px;
+  }
+
+  #myDiv3 {
+    position: absolute;
+    top: 1910px;
+    left:50px;
+  }
+
+  h8 {
+    position: relative;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: 1690px;
+    left: 240px;
+    font-size: medium;
+  }
+    h5 {
+    position: relative;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
+    top: 1180px;
+    font-size: x-large;
+  }
+
+  h6 {
+    position: relative;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: 1290px;
+    font-size: medium;
+  }
+  
+  #myDiv5 {
+      position:absolute;
+        top:145% ;
+        left:3.8%;
+        width: 45%;
+        height: 50%;
+    }
+
+    h10 {
+      position:absolute;
+      text-align: center;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        top:415% ;
+        left:25%;
+        width: 45%;
+        height: 50%;
+        font-size: large;
+    }
+ 
+/* Picture Slideshow */ 
+{box-sizing: border-box}
+.mySlides {display: none}
+img {vertical-align: middle; max-height: 600px; max-width: 600px;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 600px;
+  max-height: 600px;
+  position: absolute;
+  top: 25%;
+  left: 26.10%;
+}
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+/* Fading animation */
+.fade {
+  -webkit-animation-name:fade;
+  -webkit-animation-duration: 1.0s;
+  animation-name:fade;
+  animation-duration: 1.0s;
+}
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+  </style>
+
+<body>
+
+    <div class="daOliveBox">
+        <h1 > Human Mobility in a Globalized World: <br> Migration Dynamics in Nepal 
+        </h1>
+    </div>
+</div>
+
+
+<div id="daLaborMig1">
+    <h2>
+        Labor Migration 
+    </h2>
+</div>
+
+<div id= "daLaborMig2">
+    <h3>
+      “foreign labour migration is an essential part of everyday life for Nepalese people” (Kunwar, 2020)  
+     </h3>
+</div>
+
+<div class="slideshow-container">
+
+    <!-- Full-width images with number and caption text -->
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="Slideshow\1.jpg" style="width:100">
+    </div>
+  
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="Slideshow\2.jpg" style="width:100%">
+    </div>
+  
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="Slideshow\3.jpg" style="width:100%">
+    </div>
+
+    <div class="mySlides fade">
+        <div class="numbertext"></div>
+        <img src="Slideshow\4.jpg" style="width:100%">
+      </div>
+
+      <div class="mySlides fade">
+        <div class="numbertext"></div>
+        <img src="Slideshow\5.jpg" style="width:100%">
+      </div>
+  
+    <!-- Next and previous buttons -->
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  </div>
+  <br>
+  
+  <!-- The dots/circles -->
+  <div style="text-align:center">
+    <span class="dot" onclick="currentSlide(1)"></span>
+    <span class="dot" onclick="currentSlide(2)"></span>
+    <span class="dot" onclick="currentSlide(3)"></span>
+  </div>
+
+  <script>
+    var slideIndex = 1;
+    showSlides(slideIndex);
+    
+    function plusSlides(n) {
+      showSlides(slideIndex += n);
+    }
+    
+    function currentSlide(n) {
+      showSlides(slideIndex = n);
+    }
+    
+    function showSlides(n) {
+      var i;
+      var slides = document.getElementsByClassName("mySlides");
+      var dots = document.getElementsByClassName("dot");
+      if (n > slides.length) {slideIndex = 1}    
+      if (n < 1) {slideIndex = slides.length}
+      for (i = 0; i < slides.length; i++) {
+          slides[i].style.display = "none";  
+      }
+      for (i = 0; i < dots.length; i++) {
+          dots[i].className = dots[i].className.replace(" active", "");
+      }
+      slides[slideIndex-1].style.display = "block";  
+      dots[slideIndex-1].className += " active";
+    }
+    </script>
+
+<div style=
+"height:400px;
+width:500px;
+position:absolute;
+top: 835px;
+left: 700px;
+border:1px solid #ccc;
+font:14px/26px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+overflow:auto;">
+
+<b>Why is Labor Migration so Important in Nepal?</b> <br> <br>
+ The contribution of migrant laborer remittances to Nepal's GDP doubled between 2005 and 2016, reaching an all time high of <b>32.1%</b> in 2016 (International Labor Organization).
+<br>
+<br>
+<b>50%</b> of households in Nepal have at least one family member working abroad and sending remittances home (Kunwar, 2020).
+<br>
+<br>
+<b>Labor Laws and Protections for Nepalese People:</b> <br>
+(Information from the ILO and the Government of Nepal)
+<br>
+<br>
+<b>1950 Treaty of Peace and Friendship:</b> India and Nepal formalized an open border agreement to faciliate migrant labor mobility between the countries. Owing to the open border, there lacks formal counting of labor migrants between Nepal and India and therefore statistics for India are omitted from the left-hand map. However, in 2020 an estimated <b>3 million</b> Nepalese people were employed in India (Kunwar, 2020).
+<br>
+<br>
+<b>2007/2064:</b> National Network for Safe Migration (NNSM) founded to build better policy and rights protections for migrants. 
+<br>
+<br>
+<b>2008/2065:</b> Foreign Employment Rules established greater protection and support for female labor migrants including establishing childcare centers in prominent labor migration destinations.
+<br>
+<br>
+<b>2015/2072</b> "Free Visa Free Ticket" program finalized and put into effect, whereby foreign employers are responsible for the financial costs of migrant laborer's visas, plane tickets, and health check-ups. Program applies to employers in: <b>Malaysia, Qatar, Saudi Arabia, UAE, Kuwait, Bahrain, and Oman</b>.  
+</div>
+<div id="myDiv5">
+<img src="Exports2_Labor\Labor Migration GIF.gif" width="1000" height="400"> 
+<h7> <b>Migrant Nepalese Workers Abroad</b></h7>
+</div>
+
+<div id="Asylum2">
+<h6>
+  "we believe that everyone has a right to seek asylum from persecution" (UNHCR)
+  </h6>
+</div>
+
+<div id="Asylum1">
+  <h5>
+      Asylum Seeking 
+  </h5>
+</div>
+
+<div style=
+"height:400px;
+width:500px;
+position:absolute;
+top: 1425px;
+left: 700px;
+border:1px solid #ccc;
+font:14px/26px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+overflow:auto;">
+  <b>Why are Nepalese People Seeking Asylum?</b> <br> <br>
+ <b>1996-2006:</b>"People's War" of the Communist (Maoist) Party of Nepal. Forced disappearances, arbitrary arrests, and executions during this period motivated people to seek asylum in large numbers to avoid political persecution, torture, or death (Human Rights Watch).  <br>
+  <br>
+ <b>2011-2014:</b> Europe tightened its border control policies, preventing many Nepalese asylum seekers from being granted refugee status. 
+  <br>
+  <br>
+<b>April 25, 2015:</b> A 7.8 magnitude earthquake struck Nepal followed by a 7.4 magnitude aftershock 17 days later. Over 600,000 homes were destroyed and the coinciding border blockade between India and Nepal hindered the delivery of fuel, medical and construction supplies, and other critical resources. Loss of family, homes, and livelihoods and slow dissemination of aid motivated people to seek Temporary Protected Status outside of the country (World Vision). 
+  <img src="C:\Users\sophi\Desktop\GEOG 456\Final Project\Scroll Box Pictures\1.jfif" alt="" height="250px" width="430px">
+  <br>*People displaced by environmental hazard are currently not eligible for asylum or refugee status, however efforts are ongoing to expand protections for these people.  
+  <br>
+  <br>
+<b>Persistent Motivating Factor:</b> Nepal's ethnic caste system and myriad religious groups have produced ethnic and relgious tensions throughout the country's history, encouraged by an uptick in extremist groups. People of low caste and Tibetan Bhuddists are often the victims of religious and ethnic persecution, motivating them to seek asylum.
+  </div>
+
+<div id="myDiv2">
+<img src="Exports1\NepaleseAsylumSeekers.gif" width="1000" height="400"> </div>
+
+<div id="myDiv3">
+  <img src="Exports 3_Asylum Seekers IN Nepal\AsyluminNepal.gif" width="1000" height="400">
+</div>
+<h8><b>People Seeking Asylum in Nepal</b></h8>
+
+<div style=
+"height:400px;
+width:500px;
+position:absolute;
+top: 1910px;
+left: 700px;
+border:1px solid #ccc;
+font:14px/26px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+overflow:auto;">
+  <b>What is Motivating Peopel to Seek Asylum in Nepal?</b> <br> <br>
+  Although Nepal has not signed the 1951 Refugee Convention and has no national legal framework for asylum-seekers or refugees, the country
+   has a long history of accepting international refugees (UNHCR).
+   <br> <br>
+   <b>1959-early 2000s:</b> Tibetans have been fleeing into Nepal and India due to increasing persecution and oppression from the Chinese government (UNHCR). 
+ <br>
+ <br>
+ <b>Late 1960s-present:</b> Internal political conflict and ethnic cleansing of the Rohingya ethnic group has resulted in many people fleeing Myanmar to nearby countries including Nepal (UNHCR). 
+ <br>
+ <br> 
+ <b>Late 1980s:</b> "One Nation, One People" policy of Bhutan initiated, leading to the ethnic cleansing of Lhotshampa people, ethnic Nepalese Hindus from the South of Bhutan. This policy was an effort to preserve Bhutan's unique identity (European Resettlement Network).
+  <br>
+  <br>
+   Since <b>1999:</b> over <b>18%</b> of Bhutan's population has sought asylum outside of Bhutan due to ethnic persecution, settling primarily in Nepal and India (UNHCR).   
+<br>
+<br>
+Ongoing war, conflict, and political persecution in some Middle Eastern countries motivate peopel to seek asylum in nearby countries such as Nepal. 
+</div>
+
+<div class="daOliveBox2">
+<h10><b>"Without question, all people who move between countries deserve full respect for their human rights and human dignity" (UNHCR).</b> </h10>
+</div>
+
+
+</body>
+</html>
